@@ -14,7 +14,7 @@
     ],
     "functions": {
         "api/**": {
-            "excludeFiles": "{Lib,Script}/**"
+            "excludeFiles": "{Lib/,Script/}/**"
         }
     }
 }
